@@ -1,4 +1,4 @@
-FROM abhi/poc
+FROM poc
 #RUN  java -jar /home/microservices-1.0-SNAPSHOT.jar server /home/calculatorService.yml
 
 #CMD java -jar /home/microservices-1.0-SNAPSHOT.jar  server /home/calculatorService.yml
